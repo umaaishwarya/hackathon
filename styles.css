@@ -1,8 +1,9 @@
 
 body{
 	position: absolute;
-	bottom: 200px;
-	background-image: https://img.freepik.com/free-vector/heart-with-cardiograph-line-medical-blue-background_1017-24816.jpg;
+	bottom:600px;
+	background-image:" https://img.freepik.com/free-vector/heart-with-cardiograph-line-medical-blue-background_1017-24816.jpg";
+	
 }
 html {
     width: 100%;
@@ -47,6 +48,10 @@ h6 {
 .p-large {
 	font-size: 1.125rem;
 	line-height: 1.875rem;
+}
+
+.container{
+	background-image: "https://ci3.googleusercontent.com/mail-img-att/AFCqZUTTCqP0XlXJjleadhU9F7-9oW5XMTAqCrgBCZkAIeTPAhlPy9mRPvf8fnSrcmjEg1kNG8oWfuMMqzpqcD1eYmUzPoTgbQ5zklV3BAGkIyTnLLXJO99vL8fW7rQvfEbrXDUvl3WiuEnisD8wW2q3ckReunh_lGTmfP6YmyPUYggPT1PDk8e70o7m80AbQCXwOsvvkAK-QlAvuNIoQkjAqgPgfm8G83SZ4SpApSXTmBOqIDnUTN7Av25EFvsB1tZLUg65n5h5uzG0v4PN1MpTEpjRmjxfbhz9aAeIggmlNoG5yprQeR4mKlUlgNXCchXWjmTFEtY85JSw-TU-Nni-AFP1jCVJ_jhcMn-BrFHtaCAsG-2D8MLmSft3D1l2Wvk7rZSE0vGVSDcdDjE6UwGT4mdRTHQNXPfvyOSOpBovaNkVEhhpq0meIhfF7FnIlHX3EeUWYV-x7HV4P3M3KB4OfIQIIQ3vPMHByVsuYllItSQe_fjMz_wroh_oMhTR7rgxga4lfmxj_NCJYn7_QeSO_Bw17iNkYzHjw8y5u1rwYYIZAbomVDRNHBy5XQ8b_uQhssbO83kVV9iDFy-Y69za3fIR_wXzewTfQd-LRwnK-KJ4ZMhk_mqvEtjYhTGoyW7ttld8C4lQqrh-_kECJaMybGxRTnoydo7uxG102vFfymtmYQDiB8xfeaZGUs09h2x-zShaxCuRtRHJkFzYUABrPtzHTZsp4qKQabZBnWY3KW1VtZIlQxkmlvmXsj8qIMf8rXuwAxxzvbZedWp-RD5_T3lt16sv6p6sQjn04qM6Nk_YqAdqwVMritMq4mkgNUOgunWMbWFVcR_9w8rNY2c80D-nFkTpaFHCmKR16-tUXzOIIrbuha2ZGpCGsO9kQR55TFgm-81h_iJQ_t-PklwpmAq0SZiIDI7tPqVAV3PMMl5jHtjdjgxa7zM-ShhQokoRwQ=s0-l75-ft";
 }
 
 .p-small {
@@ -586,7 +591,7 @@ input[type='checkbox'] {
 		bottom: 100px;
 		width: 100%;
 		height: 100%;
-		background-color: #FAF8F1;
+		background-image: url("./unnamed.png");
 	}
 	.col-lg-6{
 		position: absolute;
